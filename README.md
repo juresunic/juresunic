@@ -5,7 +5,7 @@ Junior ML Engineer with MSc in AI
 -----------------------------------------------
 
 * 🌍  I'm based in Zagreb, HR
-* ✉️  You can contact me at [juresunic@hotmail.com](mailto:juresunic@hotmail.com)
+* ✉️  You can contact me at [jure.sunic@pontistechnology.com](mailto:jure.sunic@pontistechnology.com)
 * 🧠  I'm life-long learner 
 * 🤝  I'm open to collaborating on Interesting projects related to AI in Python 
 
